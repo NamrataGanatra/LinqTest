@@ -15,6 +15,7 @@ using SampleSupport;
 
 // Version Mad01
 // Adding Comment as the change
+// more comments added
 
 namespace SampleQueries {
     [Title("101 LINQ Query Samples")]
