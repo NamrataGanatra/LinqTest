@@ -16,6 +16,7 @@ using System.Globalization;
 using System.IO;
 using System.Windows.Forms;
 
+// new comment added
 namespace SampleQueries {
     [Title("101+ Linq To Xml Query Samples")]
     [Prefix("XLinq")]
