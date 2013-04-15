@@ -25,6 +25,7 @@ using System.Data.Linq;
 using System.Data.Linq.Mapping;
 
 
+// creating a new DB
 public partial class NewCreateDB : DataContext {
 
     public Table<Person> Persons;
